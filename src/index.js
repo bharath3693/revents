@@ -8,7 +8,7 @@ import reportWebVitals from './reportWebVitals';
 const rootEl = document.getElementById('root');
 
 function render(){
-  ReactDOM.render(<App />,rootEl  );
+  ReactDOM.render(<App />, rootEl);
 }
 
 if(module.hot){
